@@ -38,7 +38,7 @@ You can download the APK file for this project [here](https://github.com/Omolara
 git clone https://github.com/OmolaraIdowu/MiResume-App.git
 ```
 
-## Inspirations
+## Inspiration
 
 • Thanks [@Gbemisola](https://www.behance.net/GbemisolaIdowu) 
 
