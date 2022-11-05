@@ -44,7 +44,7 @@ git clone https://github.com/OmolaraIdowu/MiResume-App.git
 
 ## Demo
 
-• Download project here [Demo](https://appetize.io/app/xuedxmuctj4r5ypjbfde6vkia4?device=pixel4xl&osVersion=11.0&scale=75)
+• Download project here [Demo](https://appetize.io/app/rkzuio56omngsaweiyxviuirtm?device=pixel4xl&osVersion=11.0&scale=75)
 
 ## To-do
 
