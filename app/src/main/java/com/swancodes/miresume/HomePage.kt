@@ -29,7 +29,7 @@ class HomePage : AppCompatActivity() {
                 findViewById<ConstraintLayout>(R.id.bottomSheet)
             )
             bottomSheetView.findViewById<View>(R.id.gitHubImage).setOnClickListener {
-                gotoUrl("https://github.com/Swan-ctrl")
+                gotoUrl("https://github.com/OmolaraIdowu")
             }
             bottomSheetView.findViewById<View>(R.id.linkedInImage).setOnClickListener {
                 gotoUrl("https://www.linkedin.com/in/omolara-idowu-0273661b4")
