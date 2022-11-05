@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Resume</string>
+    <string name="lara_idowu">Lara Idowu</string>
+    <string name="hi_i_m_lara">Hi, I’m Lara!</string>
+    <string name="budding_mobile_developer_with_great_affinity_for_codes">Budding Mobile developer with great affinity for codes.</string>
+    <string name="about_me">About Me</string>
+    <string name="my_portfolio">My Portfolio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="experience">Experience</string>
+    <string name="education">Education</string>
+    <string name="view_my_works_below">View my works below</string>
+    <string name="summary">Summary:</string>
+    <string name="summary_text">Highly motivated Mobile Application Developer with over 1 year of experience in Android. Growing knowledge and hands-on experience working on Smartphone Applications. I am passionate about solving real world problems. </string>
+    <string name="skills">Skills</string>
+    <string name="interests">Interests</string>
+    <string name="coding">Coding</string>
+    <string name="developing_mobile_apps">Developing Mobile Apps</string>
+    <string name="reading">Reading</string>
+    <string name="travelling">Travelling</string>
+    <string name="the_polytechnic_ibadan">The Polytechnic Ibadan</string>
+    <string name="_2019_2022">2019 – 2022</string>
+    <string name="accountancy_national_diploma">- Accountancy(ND)</string>
+    <string name="mate_comprehensive_high_school">Mate Comprehensive High School</string>
+    <string name="class_of_2015">Class of 2015</string>
+    <string name="ssce_graduate">-SSCE Graduate</string>
+    <string name="ollyrock_international_school">Ollyrock International School</string>
+    <string name="_2003_2009">2003 – 2009</string>
+    <string name="first_school_leaving_certificate">- First School Leaving Certificate</string>
+    <string name="certificates">Certificates</string>
+    <string name="kode_camp" translatable="false">KodeCamp</string>
+    <string name="_2022">2022</string>
+    <string name="mobile_app_developer">Mobile App Developer</string>
+    <string name="_2021_now">2021 - Now</string>
+    <string name="freelancer">- Freelancer</string>
+    <string name="computer_operator">Computer Operator</string>
+    <string name="_2020_2021">2020 – 2021</string>
+    <string name="rinse_creative_lab">- Rinse Creative Lab</string>
+    <string name="baker">Baker</string>
+    <string name="_2016_2019">2016 – 2019</string>
+    <string name="crown_cakes">- Crown Cakes</string>
+    <string name="title_placeholder">Title</string>
+    <string name="date">Date</string>
+    <string name="info_placeholder">More Information</string>
+    <string name="send_me_a_message">Send me a message</string>
+    <string name="type_here">Type here…</string>
+    <string name="send">Send</string>
+    <string name="social_media">Social Media</string>
+    <string name="udemy">Udemy</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="firebase">Firebase</string>
+    <string name="my_plant_app">My Plant App</string>
+    <string name="e_commerce">E-Commerce App</string>
+    <string name="ibook">IBook App</string>
+    <string name="android_studio">Android \n Studio</string>
+    <string name="_2021">2021</string>
+</resources>

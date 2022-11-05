@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">aún no lucha</string>
+        <string name="lara_idowu">Entre las preocupaciones</string>
+        <string name="hi_i_m_lara">¡Hola, soy Lara!</string>
+        <string name="budding_mobile_developer_with_great_affinity_for_codes">Desarrollador móvil en ciernes con gran afinidad por los códigos.</string>
+        <string name="about_me">Sobre mí</string>
+        <string name="my_portfolio">Mi portafolio</string>
+        <!-- TODO: Remove or change this placeholder text -->
+        <string name="experience">Experiencia</string>
+        <string name="education">Educación</string>
+        <string name="view_my_works_below">Ver mis trabajos a continuación</string>
+        <string name="summary">Resumen:</string>
+        <string name="summary_text">Desarrollador de aplicaciones móviles altamente motivado con más de 1 año de experiencia en Android. Conocimiento creciente y experiencia práctica trabajando en aplicaciones para teléfonos inteligentes. Me apasiona resolver problemas del mundo real. </string>
+        <string name="skills">Habilidades</string>
+        <string name="interests">Intereses</string>
+        <string name="coding">Codificación</string>
+        <string name="developing_mobile_apps">Desarrollo de aplicaciones móviles</string>
+        <string name="reading">Lectura</string>
+        <string name="travelling">De viaje</string>
+        <string name="the_polytechnic_ibadan">El Politécnico de Ibadán</string>
+        <string name="_2019_2022">2019 – 2022</string>
+        <string name="accountancy_national_diploma">- Contabilidad (ND)</string>
+        <string name="mate_comprehensive_high_school">Escuela Secundaria Integral Mate</string>
+        <string name="class_of_2015">Clase de 2015</string>
+        <string name="ssce_graduate">-Graduado de la SSCE</string>
+        <string name="ollyrock_international_school">Escuela Internacional Ollyrock</string>
+        <string name="_2003_2009">2003 – 2009</string>
+        <string name="first_school_leaving_certificate">- Primer certificado de finalización de estudios</string>
+        <string name="certificates">Certificados</string>
+        <string name="kode_camp">Campamento Kode</string>
+        <string name="_2022">2022</string>
+        <string name="_2021">2021</string>
+        <string name="mobile_app_developer">Desarrollador de aplicaciones móviles</string>
+        <string name="_2021_now">2021 - Ahora</string>
+        <string name="freelancer">- Persona de libre dedicación</string>
+        <string name="computer_operator">Operador de la computadora</string>
+        <string name="_2020_2021">2020 – 2021</string>
+        <string name="rinse_creative_lab">- Enjuague laboratorio creativo</string>
+        <string name="baker">Panadero</string>
+        <string name="_2016_2019">2016 – 2019</string>
+        <string name="crown_cakes">- Pasteles De Corona</string>
+        <string name="title_placeholder">Título</string>
+        <string name="date">Fecha</string>
+        <string name="info_placeholder">More Information</string>
+        <string name="send_me_a_message">envíeme un mensaje</string>
+        <string name="type_here">Escriba aquí…</string>
+        <string name="send">Enviar</string>
+        <string name="social_media">redes sociales</string>
+        <string name="udemy">Udemy</string>
+        <string name="kotlin">Kotlin</string>
+        <string name="firebase">base de fuego</string>
+        <string name="my_plant_app">Aplicación Mi Planta</string>
+        <string name="e_commerce">Aplicación de comercio electrónico</string>
+        <string name="ibook">Aplicación iBook</string>
+        <string name="android_studio">Estudio \n de Android</string>
+</resources>

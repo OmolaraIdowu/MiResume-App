@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/drawable/background.xml" value="0.201" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/drawable/bg_text_field.xml" value="0.2405" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/drawable/bottom_sheet_background.xml" value="0.2405" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/drawable/button_background.xml" value="0.201" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/drawable/ic_android_studio_icon.xml" value="0.201" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/drawable/ic_award.xml" value="0.201" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/drawable/ic_award_2.xml" value="0.201" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/drawable/ic_back.xml" value="0.201" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/drawable/ic_back_arrow.xml" value="0.2515" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/drawable/ic_email.xml" value="0.201" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/drawable/ic_firebase.xml" value="0.201" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/drawable/ic_kotlin.xml" value="0.201" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/drawable/ic_more.xml" value="0.2405" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/drawable/ic_settings.xml" value="0.204" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/drawable/image_shadow.xml" value="0.201" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/drawable/rounded_background.xml" value="0.2405" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/drawable/rounded_background_2.xml" value="0.2405" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/drawable/rounded_background_3.xml" value="0.2405" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/drawable/rounded_backround_3.xml" value="0.2405" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/drawable/rounded_button2.xml" value="0.2405" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/font/inter_bold.xml" value="0.28020833333333334" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/layout/activity_home_page.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/layout/activity_home_page_land.xml" value="0.25" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/layout/activity_main.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/layout/activity_portfolio_land.xml" value="0.19837537409149208" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/layout/activity_portfolio_page.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/layout/education_list_item.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/layout/education_lists_item.xml" value="0.240625" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/layout/experience_list_item.xml" value="0.240625" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/layout/fragment_about_me.xml" value="0.25" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/layout/fragment_education.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/layout/fragment_experience.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/layout/land.xml" value="0.19837537409149208" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/layout/portfolio_list_item.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/layout/skills_list_item.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/Swan/MyAndroidWorkSpace/SwanResume/app/src/main/res/menu/bottom_nav.xml" value="0.24166666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.19157608695652173" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

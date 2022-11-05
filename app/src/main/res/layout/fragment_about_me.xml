@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey"
+    android:scrollbarStyle="insideInset"
+    android:scrollbars="horizontal"
+    tools:context="com.swancodes.miresume.fragments.AboutMeFragment"
+    tools:ignore="ScrollViewCount">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/summaryLayout"
+            android:layout_width="match_parent"
+            android:layout_height="240dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/background"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <TextView
+                android:id="@+id/summaryText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/inter_bold"
+                android:text="@string/summary"
+                android:textAlignment="viewStart"
+                android:textColor="@color/black"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="@id/summaryLayout"
+                app:layout_constraintTop_toTopOf="@id/summaryLayout" />
+
+            <TextView
+                android:id="@+id/summaryNote"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="20dp"
+                android:fontFamily="@font/inter_medium"
+                android:lineSpacingExtra="4dp"
+                android:text="@string/summary_text"
+                android:textAlignment="viewStart"
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                app:layout_constraintEnd_toEndOf="@id/summaryLayout"
+                app:layout_constraintStart_toStartOf="@id/summaryText"
+                app:layout_constraintTop_toBottomOf="@id/summaryText" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <TextView
+            android:id="@+id/skillHeading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:fontFamily="@font/syne_bold"
+            android:text="@string/skills"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            app:layout_constraintStart_toStartOf="@id/summaryLayout"
+            app:layout_constraintTop_toBottomOf="@id/summaryLayout" />
+
+        <TextView
+            android:id="@+id/skillText1"
+            android:layout_width="80dp"
+            android:layout_height="72dp"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/background"
+            android:fontFamily="@font/inter_medium"
+            android:gravity="center_horizontal|center"
+            android:padding="8dp"
+            android:text="@string/kotlin"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            app:drawableTopCompat="@drawable/ic_kotlin"
+            app:layout_constraintEnd_toStartOf="@id/skillText2"
+            app:layout_constraintStart_toStartOf="@id/skillHeading"
+            app:layout_constraintTop_toBottomOf="@id/skillHeading" />
+
+        <TextView
+            android:id="@+id/skillText2"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:background="@drawable/background"
+            android:fontFamily="@font/inter_medium"
+            android:gravity="center_horizontal|center"
+            android:padding="8dp"
+            android:text="@string/android_studio"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            app:drawableTopCompat="@drawable/ic_android_studio_icon"
+            app:layout_constraintBottom_toBottomOf="@id/skillText1"
+            app:layout_constraintEnd_toStartOf="@id/skillText3"
+            app:layout_constraintStart_toEndOf="@id/skillText1"
+            app:layout_constraintTop_toTopOf="@id/skillText1" />
+
+        <TextView
+            android:id="@+id/skillText3"
+            android:layout_width="80dp"
+            android:layout_height="72dp"
+            android:layout_margin="20dp"
+            android:background="@drawable/background"
+            android:fontFamily="@font/inter_medium"
+            android:gravity="center_horizontal|center"
+            android:padding="8dp"
+            android:text="@string/firebase"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            app:drawableTopCompat="@drawable/ic_firebase"
+            app:layout_constraintBottom_toBottomOf="@id/skillText2"
+            app:layout_constraintStart_toEndOf="@id/skillText2"
+            app:layout_constraintTop_toTopOf="@id/skillText2" />
+
+        <TextView
+            android:id="@+id/interestsHeading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:fontFamily="@font/syne_bold"
+            android:text="@string/interests"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            app:layout_constraintStart_toStartOf="@id/skillText1"
+            app:layout_constraintTop_toBottomOf="@id/skillText1" />
+
+        <TextView
+            android:id="@+id/interest_text1"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/background"
+            android:fontFamily="@font/inter_medium"
+            android:gravity="center_horizontal|center"
+            android:text="@string/coding"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            app:layout_constraintEnd_toStartOf="@id/interest_text2"
+            app:layout_constraintStart_toStartOf="@id/interestsHeading"
+            app:layout_constraintTop_toBottomOf="@id/interestsHeading" />
+
+        <TextView
+            android:id="@+id/interest_text2"
+            android:layout_width="230dp"
+            android:layout_height="50dp"
+            android:layout_margin="20dp"
+            android:background="@drawable/background"
+            android:fontFamily="@font/inter_medium"
+            android:gravity="center_horizontal|center"
+            android:text="@string/developing_mobile_apps"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            app:layout_constraintBottom_toBottomOf="@id/interest_text1"
+            app:layout_constraintStart_toEndOf="@id/interest_text1"
+            app:layout_constraintTop_toTopOf="@id/interest_text1" />
+
+        <TextView
+            android:id="@+id/interest_text3"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/background"
+            android:fontFamily="@font/inter_medium"
+            android:gravity="center_horizontal|center"
+            android:text="@string/reading"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            app:layout_constraintEnd_toStartOf="@id/interest_text4"
+            app:layout_constraintStart_toStartOf="@id/interest_text1"
+            app:layout_constraintTop_toBottomOf="@id/interest_text1" />
+
+        <TextView
+            android:id="@+id/interest_text4"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="16dp"
+            android:background="@drawable/background"
+            android:fontFamily="@font/inter_medium"
+            android:gravity="center_horizontal|center"
+            android:text="@string/travelling"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            app:layout_constraintBottom_toBottomOf="@id/interest_text3"
+            app:layout_constraintStart_toEndOf="@id/interest_text3"
+            app:layout_constraintTop_toTopOf="@id/interest_text3" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.core.widget.NestedScrollView>
